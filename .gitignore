@@ -1,0 +1,7 @@
+/storage/*.sqlite*
+/storage/sessions/
+/database/config.local.php
+.env
+.env.*
+!.env.example
+*.log
